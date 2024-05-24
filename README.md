@@ -18,5 +18,4 @@ The dashboard will utilize a tabular dataset containing information on all movie
 - Content Type: Amazon Prime boasts a larger collection of movies compared to TV shows.
 - Production Origin: The United States leads the pack in content production, followed by India.
 - Ratings : A significant portion of Amazon Prime content caters to Ratings of 13+.
-- Production Year: The rise of the content production was observed after 2000.
 - Genre Popularity: Dramas reign supreme as the most popular genres among Amazon Prime viewers followed by comedy.
