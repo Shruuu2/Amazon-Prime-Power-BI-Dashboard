@@ -1,4 +1,4 @@
-# **Amazon Prime Power BI dashboard**
+# **Amazon Prime Video Power BI dashboard**
 
 This repository outlines potential uses for a Power BI dashboard analyzing Amazon Prime Video content.
 
